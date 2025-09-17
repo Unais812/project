@@ -22,5 +22,7 @@ else
 fi 
 
 echo "results stored in YYYY-MM-DD_HHMM.txt."
+
+sleep 5
 fi
 done
