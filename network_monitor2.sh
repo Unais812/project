@@ -23,3 +23,7 @@ curl -ls ${websites[$index]} >> logs/${NOW}.txt
 ((index++)) 
 done
 fi
+
+sleep 1
+
+echo "Task completed!, please check the $NOW folder for results"
