@@ -1,0 +1,37 @@
+PING google.com (142.250.151.113): 56 data bytes
+64 bytes from 142.250.151.113: icmp_seq=0 ttl=113 time=11.112 ms
+64 bytes from 142.250.151.113: icmp_seq=1 ttl=113 time=13.336 ms
+64 bytes from 142.250.151.113: icmp_seq=2 ttl=113 time=13.490 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 11.112/12.646/13.490/1.087 ms
+<HTML><HEAD><meta http-equiv="content-type" content="text/html;charset=utf-8">
+<TITLE>301 Moved</TITLE></HEAD><BODY>
+<H1>301 Moved</H1>
+The document has moved
+<A HREF="http://www.google.com/">here</A>.
+</BODY></HTML>
+PING github.com (20.26.156.215): 56 data bytes
+64 bytes from 20.26.156.215: icmp_seq=0 ttl=118 time=11.369 ms
+64 bytes from 20.26.156.215: icmp_seq=1 ttl=118 time=13.521 ms
+64 bytes from 20.26.156.215: icmp_seq=2 ttl=118 time=12.141 ms
+
+--- github.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 11.369/12.344/13.521/0.890 ms
+PING 1.1.1.1 (1.1.1.1): 56 data bytes
+64 bytes from 1.1.1.1: icmp_seq=0 ttl=58 time=5.682 ms
+64 bytes from 1.1.1.1: icmp_seq=1 ttl=58 time=6.608 ms
+64 bytes from 1.1.1.1: icmp_seq=2 ttl=58 time=8.618 ms
+
+--- 1.1.1.1 ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.682/6.969/8.618/1.226 ms
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>cloudflare</center>
+</body>
+</html>
